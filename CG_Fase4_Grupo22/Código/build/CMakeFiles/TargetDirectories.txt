@@ -1,0 +1,3 @@
+/home/arieira/Desktop/CG-Fase4/CG-Fase4/build/CMakeFiles/rebuild_cache.dir
+/home/arieira/Desktop/CG-Fase4/CG-Fase4/build/CMakeFiles/edit_cache.dir
+/home/arieira/Desktop/CG-Fase4/CG-Fase4/build/CMakeFiles/class4.dir
