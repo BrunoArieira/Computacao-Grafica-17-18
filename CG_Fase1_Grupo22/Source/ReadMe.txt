@@ -17,3 +17,6 @@ Ana Paula Carvalho
 Bruno Arieira
 João Palmeira
 Pedro Almeida
+
+
+(Algumas figuras já geradas, de exemplo, na pasta 3D e os respetivos ficheiros XML na pasta XML)
